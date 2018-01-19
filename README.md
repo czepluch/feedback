@@ -12,6 +12,10 @@ If granted you will be able to download the app from the playstore:
 
 #### iOS
 
+To give you access to our app via Test Flight we need you name and email address: 
+
+[Google Form](https://goo.gl/forms/oDp0Zydk7FVcqv4z1)
+
 ## Testing
 
 If you find an bug / issues or something that is missing while testing the app, you can file an issue: 
