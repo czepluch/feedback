@@ -1,6 +1,6 @@
 # Trustlines App Tests
 
-## Get access to testing versions
+### Getting access to testing versions
 
 #### Android
 
@@ -18,11 +18,31 @@ To give you access to our app via Test Flight we need you name and email address
 
 ## Testing
 
-If you find an bug / issues or something that is missing while testing the app, you can file an issue: 
+If you find a bug or have any design or conceptual related ideas your feedback is very welcome
+
+### How to create an issue
+
+#### Issue-template
+
+Please be so kind to follow the issue template - the more information you provide to an issue, the easier it will be for us to reconstruct a bug or understand the brilliance of your design or conceptual proposal
 
 [github.com/trustlines-network/feedback/issues](https://github.com/trustlines-network/feedback/issues/new)
 
-Please be so kind to label you issue accordingly and provide as much information as possible / needed to resolve it.
+#### Labels
+
+Please be so kind to label you issue whether it is ``bug`` , ``design`` or ``conceptual `` related
+
+
+### We appreciate your help, thanks!
+
+
+
+
+
+
+
+
+
 
 
 
