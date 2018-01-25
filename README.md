@@ -1,6 +1,6 @@
-# Trustlines App Tests
+# Trustlines Mobile App Testing
 
-### Getting access to testing versions
+### Getting access
 
 #### Android
 
