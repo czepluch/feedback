@@ -30,7 +30,7 @@ Please be so kind to follow the issue template - the more information you provid
 
 #### Labels
 
-Please be so kind to label you issue whether it is ``bug`` , ``design`` or ``conceptual `` related
+Please be so kind to frame your issue whether you consider the issue to be ``bug`` , ``design`` or ``conceptual `` related, then we will review the issue and label it accordingly.
 
 
 ### We appreciate your help, thanks!
