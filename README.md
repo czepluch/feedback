@@ -18,8 +18,6 @@ To give you access to our app via Test Flight we need you name and email address
 
 ## Testing
 
-If you find a bug or have any design or conceptual related ideas your feedback is very welcome
-
 ### How to create an issue
 
 #### Issue-template
