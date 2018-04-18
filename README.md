@@ -4,9 +4,9 @@
 
 #### Android
 
-Go to [Trustlines Test Community](https://plus.google.com/communities/110092662247828550761) and request access to the community. 
+Request access to the [Trustlines Test Community](https://plus.google.com/communities/110092662247828550761)
 
-If granted you will be able to download the app from the playstore:
+When access is granted you will be able to download the app from the playstore:
 
 [https://play.google.com/store/apps/details?id=network.trustlines.mobileapp]()
 
