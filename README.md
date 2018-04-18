@@ -4,7 +4,7 @@
 
 #### Android
 
-Go to [Trustline community](https://plus.google.com/communities/110092662247828550761) and request access to the community. 
+Go to [Trustlines Test Community](https://plus.google.com/communities/110092662247828550761) and request access to the community. 
 
 If granted you will be able to download the app from the playstore:
 
