@@ -14,7 +14,7 @@ When access is granted you will be able to download the app from the playstore:
 
 To give you access to our app via Test Flight we need you name and email address: 
 
-[Google Form](https://goo.gl/forms/oDp0Zydk7FVcqv4z1)
+[Google Form](https://goo.gl/forms/iypkm4yAxUYz7V4G2)
 
 ## Testing
 
