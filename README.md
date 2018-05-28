@@ -8,7 +8,7 @@ Request access to the [Trustlines Test Community](https://plus.google.com/commun
 
 When access is granted you will be able to download the app from the playstore:
 
-[https://play.google.com/store/apps/details?id=network.trustlines.mobileapp]()
+https://play.google.com/apps/testing/network.trustlines.mobileapp.staging
 
 #### iOS
 
