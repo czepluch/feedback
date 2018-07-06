@@ -6,7 +6,7 @@
 
 Request access to the [Trustlines Test Community](https://plus.google.com/communities/110092662247828550761)
 
-When access is granted you will be able to download the app from the playstore:
+When access is granted, you will be able to download the app from the playstore:
 
 https://play.google.com/apps/testing/network.trustlines.mobileapp.staging
 
@@ -15,6 +15,8 @@ https://play.google.com/apps/testing/network.trustlines.mobileapp.staging
 To give you access to our app via Test Flight we need you name and email address: 
 
 [Google Form](https://goo.gl/forms/iypkm4yAxUYz7V4G2)
+
+When access is granted, you will get an email with further instructions.
 
 ## Testing
 
