@@ -1,26 +1,5 @@
 # Trustlines Bug Hunting
 
-### Getting access
-
-
-If you are an experienced developer and would like to help us improve security and usability of our evolving codebase, please fellow the below guide:
-
-#### Android
-
-Request access to the [Trustlines Test Community](https://plus.google.com/communities/110092662247828550761)
-
-If granted access, you will be able to download the testing app from here:
-
-https://play.google.com/apps/testing/network.trustlines.mobileapp
-
-#### iOS
-
-To give you access to the app via Test Flight we need you name and email address: 
-
-[Google Form](https://goo.gl/forms/iypkm4yAxUYz7V4G2)
-
-When access is granted, you will get an email with further instructions.
-
 ## Testing
 
 ### How to create an issue
